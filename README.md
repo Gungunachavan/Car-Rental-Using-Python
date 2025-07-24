@@ -1,6 +1,3 @@
-# Car-Rental-Using-Python
----
-
 # 🚗 Car Rental System — Python (OOP-Based)
 
 A menu-driven car rental application developed in Python using Object-Oriented Programming (OOP). This project simulates a basic rental flow, managing customers, car availability, and rental transactions.
